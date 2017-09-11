@@ -1,0 +1,35 @@
+<ion-view>
+    <div class="bar bar-header bar-energized">
+        <h1 class="title">Title</h1>
+    </div>
+  <ion-content>
+    <ion-list class="list">
+        <ion-item class="item-text-wrap" ng-repeat="recipe in recipes | filter: { name: whichrecipe }">
+          <img ng-src="img/{{recipe.picname}}.jpg"
+            alt="{{ recipe.name }} Photo" class="col col-center">
+          <h1>{{ recipe.name }}</h1>
+          <h2>{{ recipe.hour }}</h2>
+            <h3>{{recipe.rate}} Ratings</h3>
+            <h4>Ingredients Needed:</h4>
+          <p>{{ recipe.ingredient }}</p>
+            <h4>Directions: </h4>
+            <p>{{ recipe.direction}}</p></br>
+            <div class="item tabs tabs-secondary tabs-icon-left">
+                <a class="tab-item" href="#">
+                    <i class="icon ion-thumbsup"></i>
+                    Like
+                </a>
+                <a class="tab-item" href="#">
+                    <i class="icon ion-chatbox"></i>
+                    Comment
+                </a>
+                <a class="tab-item" href="#">
+                    <i class="icon ion-share"></i>
+                    Share
+                </a>
+            </div>
+        </ion-item>
+        
+      </ion-list>
+  </ion-content>
+</ion-view>

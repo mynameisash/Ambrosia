@@ -1,0 +1,12 @@
+<ion-view view-title="Top Recipes">
+  <ion-content>
+    <ion-list>
+      <ion-item ng-repeat="recipe in recipes | orderBy:'-rate'" href="#/app/playlists/{{recipe.name}}" class="item-thumbnail-left item-text-wrap">
+            <img src="../img/{{recipe.picname}}.jpg" alt="{{recipe.picname}} Photos"/>
+            <h2>{{recipe.name}}</h2>
+			<h3>{{recipe.hour}}</h3>
+            <h4>{{recipe.rate}} Ratings</h4>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

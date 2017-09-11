@@ -1,0 +1,13 @@
+[
+	{
+		"picname": "lasagna",
+		"name": "Lasagnass",
+		"rate": "4.5/5",
+		"hour": "60 Minutes Cook Time"
+	},{
+		"picname": "burger",
+		"name": "Burger King",
+		"rate": "3/5",
+		"hour": "45 Minutes Cook Time"
+	}
+]

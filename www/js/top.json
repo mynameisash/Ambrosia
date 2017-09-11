@@ -1,0 +1,54 @@
+{
+  "recipes": [
+    {
+		"picname": "lasagna",
+	"name": "Lasagna",
+	"rate": "4.5/5",
+	"hour": "195 Minutes Cook Time",
+    "ingredient": "1 pound sweet Italian sausage, 3/4 pound lean ground beef, 1/2 cup minced onion,2 cloves garlic (crushed), 1 can crushed tomatoes, 2 cans tomato paste, 2 cans canned tomato sauce, 1/2 cup water, 2 tablespoons white sugar, 1 1/2 teaspoons dried basil leaves, 1/2 teaspoon fennel seeds, 1 teaspoon italian seasoning, 1 tablespoon salt, 1/4 teaspoon ground black pepper, 4 tablespoons chopped fresh parsley, 12 lasagna noodles, 16 ounces ricotta cheese, 1 egg, 3/4 pound mozzarella cheese (sliced), 3/4 cup grated Parmesan cheese",
+    "direction":"1) In a Dutch oven, cook sausage, ground beef, onion, and garlic over medium heat until well browned. Stir in crushed tomatoes, tomato sauce, tomato paste, and water. Season with sugar, basil, fennel seeds, Italian Seasoning, 1 tablespoon salt, pepper, and 2 tablespoons parsley. Simmer, covered, for about 1 1/2 hours, stirring occasionally. 2) Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water. In a mixing bowl, combine ricotta cheese with egg, reaining parsley, and 1/2 teaspoon salt. 3) Preheat oven to 375 F. 4) To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13 inch baking dish. Arrange 6 noodles lengthwise over meat sauce. Spread with one half of the ricotta cheese mixture. Top with a third of mozzarella cheese slices. Spoon 1 1/2 cups meatsauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to precent sticking, either spray foil with cooking spray, or make sure the foil does not touch the cheese. 5) Bake in preheated over for 25 minutes. Remove foil, and bake an additional 25 inutes. Cool for 15 minutes before serving."
+	},{
+		"picname": "burger",
+		"name": "Double Cheeseburger",
+		"rate": "5/5",
+		"hour": "45 Minutes Cook Time",
+        "ingredient": "1/3 cup mayonnaise, 1 tablespoon toasted sesame seeds, 4 tablespoons unsalted butter (room temp), 4 brioche hamburger buns, 2 pounds ground chuck shaped into eight 1/4 inch-thick patties, salt and groupd pepper, 2 tablespoons olive oil, 8 slices of cheddar cheese, 4 butter lettuce leaves, 4 thin slices of tomatoes, 4 thin slices of red onion",
+        "direction":"1) In a small bowl, mix the mayonnaise with the sesame seeds. 2) Heat a large nonstick griddle or 2 nonstick skillets over moderate heat. Butter the cut sides of the hamburger buns and toast them on the griddle until golden, 4 to 5 minutes. Transfer to a platter. 3) Season the patties with salt and pepper. Brush the griddle with the olive oil, add the patties and cook over high heat for 2 minutes. Flip the patties and cook for 2 minutes longer, then top each one with a slice of cheddar cheese. Cook just until the cheese is melted, about 1 minute. 4) Stack 2 burgers on each bun. Top with the lettuce, shiso leaves, tomato and onion. Spread the top halves of the buns with the sesame mayo, close the burgers and serve."
+    },{
+		"picname": "pizza",
+		"name": "Pepperoni Pizza",
+		"rate": "4/5",
+		"hour": "30 Minutes Cook Time",
+        "ingredient": "1 cup tomato-and-basil pasta sauce, 1 package prebaked thin italian pizza crust, 1/4 pepperoni slices, 1 1/2 cups mozzarella cheese",
+        "direction":"1) Spoon tomato-and-basil pasta sauce evenly over crust, leaving a 1-inch border around edges. Top with half of pepperoni slices. Sprinkle with cheese. Top with remaining pepperoni. 2) Bake pizza at 450° directly on oven rack 11 to 12 minutes or until crust is golden and cheese is melted. Cut into 6 slices. Serve immediately."
+	},{
+		"picname": "steak",
+		"name": "Steak with Black Pepper Sauce",
+		"rate": "5/5",
+		"hour": "110 Minutes Cook Time",
+        "ingredient": "2 ribeye or sirloin steaks at least 1-inch thick, 100 grams baby carrot(peeled), 100 grams baby fine beans(ends trimmed), olive oil, 1/2 teaspoon salt, 2 tablespoons black peppercorn(pounded), 100ml beef broth, 4 tablespoon thickened cream, 1/2 Worcester Sauce, cornstarch solution",
+        "direction":"1) Blanch carrots and baby fine beans in a pot of boiling water for 3 minutes. Transfer immediately to an ice water bath for 5 minutes, drain and set aside. 2) Brush both sides of steaks with olive oil, season with salt and 1/2 tsp of the crushed pepper. 3) Heat saucepan on high heat (without any oil) until very hot. Place the steaks onto the hot pan and reduce the heat to medium high. 4) Cook the steaks based on desired doneness. 5) Place the cooked steaks on a plate and let it rest for a few minutes before serving. Reserve the liquid collected on the plate for making black pepper steak sauce. 6) Meanwhile, heat the saucepan used to cook the steak. Add red wine and deglaze the pan by scraping the browned bits with a spatula. Simmer for a few seconds to allow the alcohol to evaporate. 7) Add remaining crushed black pepper, beef broth, liquid collected from the cooked steak (step 5), cream and worcester sauce. Simmer for few minutes. Thicken the sauce with cornstarch solution. 8) Arrange cooked steak on a plate with blanched carrots and beans. Ladle black pepper sauce over the steak and serve immediately."
+	},{
+		"picname": "brownies",
+		"name": "Chocolate Chip Brownie",
+		"rate": "4.5/5",
+		"hour": "45 Minutes Cook Time",
+        "ingredient": "2 cups chocolate chips, 1/2 cup button or margarine, 3 large eggs, 1 1/4 cups all-purpose flour, 1 cup granulated sugar, 1 teaspoon vanilla extract, 1/4 teaspoon baking soda, 1/2 chopped nuts",
+        "direction":"1) Preheat oven to 350F. Grease 13x9-inch baking pan. 2) Melt 1 cup chocolate chip and butter in large, heavy-duty saucepan over low heat; stir until smooth. Remove from heat. Stir in eggs. Stir in flour, sugar, vanilla extract and baking soda. Stir in remaining 1 cup of chocolate chip and nuts. Spread into prepared baking pan. 3) Bake for 20-30 minutes or until wooden pick inserted in center comes out slightly sticky. Cool completely in pan on wire rack. Cut into bar to serve."
+	},{
+		"picname": "milkshake",
+		"name": "Tri-Flavor Milkshake",
+		"rate": "3/5",
+		"hour": "15 Minutes Cook Time",
+        "ingredient": "1 cup of 3 different ice cream flavor of choice, 1 1/2 cups of milk, 8 tablespoon sugar",
+        "direction":"1) Using blender or milkshake machine, blend all ingredients together until smooth. Serve in tall glasses with a straw. Top with whipcream"
+	},{
+		"picname": "rice",
+		"name": "Spicy Chicken Fried Rice",
+		"rate": "4/5",
+		"hour": "30 Minutes Cook Time",
+        "ingredient": "3 cups of cooked rice, 1 pound of chicken, 1 cup of chili peppers(blended), black pepper, salt, chili powder, 3 eggs, soy sauce, 1 whole onion",
+        "direction":"1) Heat up a wok and fry onions until browned or golden. 2) Pour blended chili peppers, eggs, and rice into the wok and stir well. 3) Add as much black pepper, salt and soy sauce as you see fit. 4) Stir well until every rice is covered in sauce."
+	}
+]
+}
